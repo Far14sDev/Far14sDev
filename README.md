@@ -8,39 +8,34 @@ A FTi também oferece instrução em Excel Empresarial, implementação de LGPD,
 ferramentas de cybersecurity.
 Especialista em cálculos trabalhistas, reviso cálculo no PJeCalc para escritórios de Advocacia.
 
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ffariasneto&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ffariasneto&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+### Card - Repository
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ffariasneto&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ffariasneto/dio-lab-open-source)
+
 ### Principais habilidades
 
-- Python
-- SQL
-- Excel
-- Git/GitHub
-- Dev Low Code
-- FastAPI
-- TKinter
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Contato
+### Card - Streak
 
-Email: francisco@fticonsult.com.br
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ffariasneto&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
-Telefone: (81) 3299 5190
+### Conecte-se comigo
 
-[LinkedIn](https://www.linkedin.com/in/francisco-farias-neto-b7abb7196?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[Instagram](https://www.instagram.com/fticonsult?igsh=MXJ5YXRqbjR5ejJiaw==)
-
-
-
-
-<!--
-**Far14sDev/Far14sDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/558132995190)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:francisco@fticonsult.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscofariasneto/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/franciscofariasneto/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Far14s/)
